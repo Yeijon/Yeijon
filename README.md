@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Yeijon! 👋
 
-I'm a sophomore studying Computer Science from China.
+I'm a junior studying Computer Science from China.
 
 My passion lies in crafting elegant and innovative solutions through my own creativity and hard work.
 
