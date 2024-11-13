@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 
 ## 😃 This week I spend my time on
 <!--START_SECTION:waka-->
+
+```txt
+JSON       14 mins         █████████████████████████   99.85 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Latest Blog Posts
