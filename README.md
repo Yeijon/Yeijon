@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java             3 hrs 52 mins   ██████████████████████▒░░   88.84 %
-CLASS            13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-Bash             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-XML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Java             1 hr 7 mins     ██████████████████▒░░░░░░   73.36 %
+CLASS            13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
+Bash             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Shell Script     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+XML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
