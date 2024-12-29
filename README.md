@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java           1 hr 2 mins     ██████████████████░░░░░░░   72.21 %
-CLASS          14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-Python         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-textmate       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Java             2 hrs 19 mins   █████████████████████░░░░   83.94 %
+Text             11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Python           6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+XML              4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
