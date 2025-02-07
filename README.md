@@ -21,11 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Scala      5 hrs 27 mins   ███████████████████████▓░   94.79 %
-Java       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-XML        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-textmate   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JSON       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Scala   1 hr 19 mins    ███████████████████████░░   91.45 %
+Java    7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
 ```
 
 <!--END_SECTION:waka-->
