@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java    8 mins          ████████████████████▓░░░░   82.32 %
-Scala   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-XML     0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Java    45 mins         ████████████████████████░   96.25 %
+Scala   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+XML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
