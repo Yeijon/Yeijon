@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   0 secs          ██████████████████████▓░░   91.28 %
-XML    0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Java   0 secs          █████████████████████▓░░░   86.48 %
+XML    0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
 ```
 
 <!--END_SECTION:waka-->
