@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       7 hrs 55 mins         ████████████▒░░░░░░░░░░░░   48.71 %
+Markdown     4 hrs 15 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+Other        1 hr 58 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Swift        1 hr 22 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Git Config   20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
