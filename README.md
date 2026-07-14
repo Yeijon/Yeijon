@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other         1 hr 51 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-YAML          1 hr 24 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
-Markdown      1 hr 23 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
-PLSQL         53 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-JSON          25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+SQL           2 hrs 38 mins         ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Other         1 hr 53 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+YAML          1 hr 48 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
+Markdown      1 hr 29 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+PLSQL         1 hr 18 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
 ```
 
 <!--END_SECTION:waka-->
